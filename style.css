@@ -1,0 +1,81 @@
+.heade__zag{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Hubballi', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sarabun', sans-serif;
+    font-family: 'Shizuru', cursive;
+font-weight: 400;
+font-size: 60px;
+line-height: 140px;
+}
+.content__text{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Hubballi', cursive;
+font-family: 'Inter', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Sarabun', sans-serif;
+font-family: 'Shizuru', cursive;
+}
+.content__button{
+    position: absolute;
+width: 266px;
+height: 74px;
+left: 96px;
+top: 864px;
+
+background: #6CB48F;
+box-shadow: 20px 20px 60px #C3DDD0;
+border-radius: 40px;
+}
+.content__button_text a{
+    text-decoration: none;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Hubballi', cursive;
+font-family: 'Inter', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Sarabun', sans-serif;
+font-family: 'Shizuru', cursive;
+    position: relative;
+    top: 20px;
+ left: 60px;
+    text-transform: uppercase;
+ text-align: center;
+ color:white
+}
+@media(max-width:1440px){
+    .heade__zag{
+        font-family: 'Bebas Neue', cursive;
+        font-family: 'Hubballi', cursive;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Sarabun', sans-serif;
+        font-family: 'Shizuru', cursive;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 140px;
+
+}
+.content__img img{
+    width: 200px;
+    position: relative;
+    left: 100px;
+}
+body{
+    margin: 20px;
+}
+.content__button{
+    position: absolute;
+    top: 560px;
+    width: 200px;
+    left: 26px;
+}
+.content__button_text{
+    position: relative;
+    left: -30px;
+}
+}
